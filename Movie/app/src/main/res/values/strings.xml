@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movie</string>
+
+    <string name="error_message">
+        An error has occurred. Please try again by clicking REFRESH
+    </string>
+    <string name="IMAGE_BASE_URL">"https://image.tmdb.org/t/p/w500"</string>
+    <string name="toprated_movies">TopRated Movies</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="movie_content_description">movieImage</string>
+    <string name="movie_text_hint">popular image</string>
+    <string name="rating">Rating :</string>
+    <string name="movie_release_date">Release Date:</string>
+    <string name="iv_details_content_description">Movie_selected</string>
+    <string name="plotAnalysis">Plot Analysis :</string>
+    <string name="divider">|</string>
+    <string name="internet">Please Check Your Network Connection</string>
+</resources>
