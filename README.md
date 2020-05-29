@@ -1,4 +1,4 @@
-# PopularMovieApp
+# PopularMovieApp Using RecycleView
 A Movie App that gets data from movieDB api.
 This App allow the users to discover the most popular movies playing.
 Present the user with a grid arrangement of movie posters upon launch.
