@@ -4,12 +4,7 @@ This App allow the users to discover the most popular movies playing.
 Present the user with a grid arrangement of movie posters upon launch.
 Allow your user to change sort order via a setting:
 The sort order can be by most popular or by highest-rated
-Allow the user to tap on a movie poster and transition to a details screen with additional information such as:
-1 original title
-2 movie poster image thumbnail
-3 A plot synopsis (called overview in the api)
-4 user rating (called vote_average in the api)
-5 release date
+Allow the user to tap on a movie poster and transition to a details screen with additional information such as: original title,movie poster image thumbnail,A plot synopsis (called overview in the api) ,user rating (called vote_average in the api), release date
 
 Library that you will need:
 
